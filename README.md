@@ -1,4 +1,4 @@
-### Oieee! eu sou Antonio o Tiburtino 👋🤓
+### Oieee! eu sou Antonio Tiburtino 👋🤓
 
 - 🔭 Hoje trabalho como ajudante geral 👷
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas ⌨🖥️📚
