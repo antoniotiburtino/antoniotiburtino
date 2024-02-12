@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como ajudante geral 👷
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas ⌨🖥️📚
-- ✏️🖥️ Atualmente estou aprendendo HTML5, CSS e as linguagens JAVA SCRIPT e PYTHON.
+- ✏️🖥️ Atualmente estou aprendendo HTML5, CSS e a linguagem JAVA SCRIPT.
 
 ![antoniotiburtinoGitHub stats](https://github-readme-stats.vercel.app/api?username=antoniotiburtino&show_icons=true&theme=transparent)
 ##
