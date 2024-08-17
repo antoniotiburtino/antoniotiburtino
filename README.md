@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como ajudante geral 👷
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas ⌨🖥️📚
-- ✏️🖥️ Atualmente estou focado em Back-end com a  linguagem JAVA .
+- ✏️🖥️ Atualmente estou focando em Back-end com a  linguagem JAVA .
 
 ![antoniotiburtinoGitHub stats](https://github-readme-stats.vercel.app/api?username=antoniotiburtino&show_icons=true&theme=transparent)
 ##
