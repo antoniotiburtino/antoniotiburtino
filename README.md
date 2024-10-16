@@ -1,4 +1,4 @@
-# Oieee! eu sou Antonio Tiburtino 👋🤓
+# Oi! Eu sou Antonio, seja bem-vindo(a) ao meu perfil! 👋🤓
 
 - 🔭 Hoje trabalho como ajudante geral 👷
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas ⌨🖥️📚
