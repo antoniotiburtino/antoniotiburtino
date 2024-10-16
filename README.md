@@ -2,7 +2,7 @@
 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas ⌨🖥️📚
 - 🖥️ Atualmente estou focando em Back-end com a linguagem JAVA 🍵♨️ 
-- 🔭 Hoje trabalho como ajudante geral 👷, em busco entrar na area de T.I 👨‍💻🖥️
+- 🔭 Hoje trabalho como ajudante geral 👷, em busca de entrar na area de T.I 👨‍💻🖥️
 
 ![antoniotiburtinoGitHub stats](https://github-readme-stats.vercel.app/api?username=antoniotiburtino&show_icons=true&theme=transparent)
 ##
