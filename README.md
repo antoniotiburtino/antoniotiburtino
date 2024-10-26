@@ -1,7 +1,7 @@
 # Oi! Eu sou Antonio, seja bem-vindo(a) ao meu perfil! 👋🤓
 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas ⌨🖥️📚
-- 🖥️ Atualmente estou focando em Back-end com a linguagem C# #️⃣🟣 
+- 🖥️ Atualmente estou focando em Back-end com a linguagem C# 🟣 
 - 🔭 Hoje trabalho como ajudante geral 👷, em busca de entrar na area de T.I 👨‍💻🖥️
 
 ![antoniotiburtinoGitHub stats](https://github-readme-stats.vercel.app/api?username=antoniotiburtino&show_icons=true&theme=transparent)
