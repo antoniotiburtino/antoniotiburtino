@@ -4,7 +4,9 @@
 - 🖥️ Atualmente estou focando em Back-end, com o um olhar pro Front-end.
 - 🔭 Hoje trabalho como ajudante geral 👷, em busca de entrar na area de T.I 👨‍💻🖥️
 
-![antoniotiburtinoGitHub stats](https://github-readme-stats.vercel.app/api?username=antoniotiburtino&show_icons=true&theme=transparent)
+
+
+
 ##
 
   
